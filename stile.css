@@ -1,0 +1,25 @@
+.container{
+    position: static;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-right: auto;
+    margin-left: auto;   
+    margin-top: 50px;
+    display: block;
+    
+
+}
+.card-body{
+    background-color: #E5E5E5;
+    border-radius: 30px;
+    
+}
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100px;
+}
+
+.days{
+    padding: 30px;
+    font-weight: bolder;
+}
