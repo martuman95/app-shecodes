@@ -1,0 +1,37 @@
+.nav-item {
+  padding: 15px;
+}
+.card-body {
+  width: 400px;
+  border: 1px solid black;
+  background-color: cornsilk;
+  background-image: url(https://www.sardegna.info/wp-content/uploads/sites/5/cagliari.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding: 40px;
+  margin-bottom: 40px;
+}
+.weather {
+  font-size: 15px;
+  margin: 15px;
+}
+.card-header {
+  font-weight: 600;
+  margin-top: 30px;
+}
+h5 {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card-title {
+  font-weight: 700;
+}
+p {
+  font-weight: 700;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: rgb(255, 255, 255);
+  opacity: 0.9;
+  border-radius: 40px;
+  margin: 130px;
+}
